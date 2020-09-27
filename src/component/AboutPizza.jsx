@@ -11,7 +11,7 @@ class AboutPizza extends Component {
                         <img src="./images/fatima-akram-uU0Anw-8Vsg-unsplash.jpg" alt="About Pizza" className="img-responsive" />
                     </div>
                         <div className="col-md-6">
-                            <h3>Pizza is awesome good</h3>
+                            <h3>Pizza is awesome</h3>
             
                             <p>
                                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae ullam nemo temporibus amet,
